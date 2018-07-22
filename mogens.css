@@ -3,7 +3,13 @@
 	src: url('MogensDice.ttf');
 }
 
-.softkey{
+.softkeys{
 	font-family: Dice;
-	font-size: 2em;
+	font-size: large;
+}
+
+.nams {
+	font-style: italic;
+	color: green;
+	font-family: Monospace;
 }
