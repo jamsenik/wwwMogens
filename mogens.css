@@ -1,0 +1,9 @@
+@font-face{
+	font-family: Dice;
+	src: url('MogensDice.ttf');
+}
+
+.softkey{
+	font-family: Dice;
+	font-size: 2em;
+}
